@@ -1,0 +1,14 @@
+{
+    "GET":{
+        "$schema": "http://json-schema.org/draft-04/schema#",
+        "type": "object",
+        "properties": {
+          "Parametro":{
+            "type": [ "string", "null" ]
+          }
+        },
+        "required": [
+
+        ]
+      }
+}
